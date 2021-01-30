@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch02FutureValueBurton", "Ch02FutureValueBurton.csproj", "{E4216049-86C3-47EE-9E96-481E481E415C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4216049-86C3-47EE-9E96-481E481E415C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4216049-86C3-47EE-9E96-481E481E415C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4216049-86C3-47EE-9E96-481E481E415C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4216049-86C3-47EE-9E96-481E481E415C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983BAAB5-46B8-4D1B-9473-4AF6EAD6DA09}
+	EndGlobalSection
+EndGlobal
